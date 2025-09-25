@@ -1,6 +1,6 @@
 # sql-data-warehouse-project
 Modern data warehouse with SQL
 
-### Project requirements
+## Project requirements
 
-##Building the Data Warehouse (Data Engineering)
+### Building the Data Warehouse (Data Engineering)
